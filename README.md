@@ -1,6 +1,9 @@
 <!-- MANPAGE: BEGIN EXCLUDED SECTION -->
 <div align="center">
 
+
+https://didiboy0702.gitbook.io/wukongdaily/wan-ke-yun-ji-qiao/ytdlp-8k-xia-zai-shen-qi-shi-yong-jian-jie
+
 [![YT-DLP](https://raw.githubusercontent.com/yt-dlp/yt-dlp/master/.github/banner.svg)](#readme)
 
 [![Release version](https://img.shields.io/github/v/release/yt-dlp/yt-dlp?color=brightgreen&label=Download&style=for-the-badge)](#release-files "Release")
